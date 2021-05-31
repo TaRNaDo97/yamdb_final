@@ -7,14 +7,7 @@ SECRET_KEY = 'p&l%385148kslhtyn^##a1)ilz@4zqj=rq&agdol^##zgl9(vs'
 
 DEBUG = False
 
-ALLOWED_HOSTS = [
-    '178.154.202.167',
-    'localhost',
-    '127.0.0.1',
-    '[::1]',
-    'yatube.fun',
-    'www.yatube.fun'
-]
+ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
