@@ -9,6 +9,9 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '178.154.202.167',
+    'localhost',
+    '127.0.0.1',
+    '[::1]',
     'yatube.fun',
     'www.yatube.fun'
 ]
