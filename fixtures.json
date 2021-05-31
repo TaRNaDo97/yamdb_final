@@ -1,0 +1,2344 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2021-05-29T17:28:32.980Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Фильм",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2021-05-29T17:29:00.150Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Книга",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2021-05-29T17:29:17.922Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "Музыка",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2021-05-29T17:33:22.498Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "2",
+      "object_repr": "bingobongo",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2021-05-29T17:33:53.550Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "3",
+      "object_repr": "capt_obvious",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2021-05-29T17:34:19.086Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "faust",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2021-05-29T17:34:47.759Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "5",
+      "object_repr": "reviewer",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2021-05-29T17:35:12.754Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "6",
+      "object_repr": "angry",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2021-05-29T17:36:06.687Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Побег из Шоушенка",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2021-05-29T17:36:25.284Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Крестный отец",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2021-05-29T17:36:49.688Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "12 разгневанных мужчин",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2021-05-29T17:37:17.197Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Список Шиндлера",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2021-05-29T17:37:36.796Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Криминальное чтиво",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2021-05-29T17:38:05.022Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Хороший, плохой, злой",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2021-05-29T17:38:24.188Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "7",
+      "object_repr": "Властелин колец: Братство кольца",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2021-05-29T17:38:43.815Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "8",
+      "object_repr": "Бойцовский клуб",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2021-05-29T17:39:11.039Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "9",
+      "object_repr": "Форрест Гамп",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2021-05-29T17:39:38.631Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "10",
+      "object_repr": "Звёздные войны. Эпизод 5: Империя наносит ответный удар",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2021-05-29T17:40:06.318Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "11",
+      "object_repr": "Властелин колец: Две крепости",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2021-05-29T17:40:31.786Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "12",
+      "object_repr": "Матрица",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2021-05-29T17:41:34.612Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "13",
+      "object_repr": "Пролетая над гнездом кукушки",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2021-05-29T17:41:55.450Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "14",
+      "object_repr": "Операция «Ы» и другие приключения Шурика",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2021-05-29T17:42:11.375Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "15",
+      "object_repr": "Карты, деньги, два ствола",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2021-05-29T17:42:31.839Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "16",
+      "object_repr": "Джентльмены удачи",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2021-05-29T17:42:46.607Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "17",
+      "object_repr": "Джанго освобожденный",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2021-05-29T17:43:03.311Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "18",
+      "object_repr": "Generation П",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2021-05-29T17:43:19.856Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "19",
+      "object_repr": "Колобок",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2021-05-29T17:43:41.013Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "20",
+      "object_repr": "Страх и ненависть в Лас-Вегасе",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2021-05-29T17:43:59.591Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "21",
+      "object_repr": "Война и мир",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2021-05-29T17:44:40.518Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "22",
+      "object_repr": "Улисс",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2021-05-29T17:44:55.979Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "23",
+      "object_repr": "Generation П",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2021-05-29T17:45:11.822Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "24",
+      "object_repr": "Винни Пух и все-все-все",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2021-05-29T17:45:27.561Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "25",
+      "object_repr": "Стас Михайлов - Позывные на любовь",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2021-05-29T17:45:40.358Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "26",
+      "object_repr": "Led Zeppelin — Stairway to Heaven",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2021-05-29T17:45:56.410Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "27",
+      "object_repr": "Jethro Tull - Aqualung",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2021-05-29T17:46:34.122Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "28",
+      "object_repr": "Elvis Presley - Blue Suede Shoes",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2021-05-29T17:47:06.377Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "29",
+      "object_repr": "Deep Purple — Smoke on the Water",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2021-05-29T17:47:20.297Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "30",
+      "object_repr": "Моцарт - Турецкий марш",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2021-05-29T17:47:41.169Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "31",
+      "object_repr": "Бах. Оркестровая Сюита №2 си минор",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2021-05-29T17:49:08.116Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Драма",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2021-05-29T17:49:39.251Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "Комедия",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2021-05-29T17:49:48.383Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Вестерн",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2021-05-29T17:49:57.767Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "Фэнтези",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2021-05-29T17:50:09.492Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Фантастика",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2021-05-29T17:50:17.971Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Детектив",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2021-05-29T17:50:29.875Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "Триллер",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2021-05-29T17:50:38.255Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "Сказка",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2021-05-29T17:50:47.238Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Гонзо",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2021-05-29T17:50:57.796Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "Роман",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2021-05-29T17:51:05.943Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Баллада",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2021-05-29T17:51:17.163Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Rock-n-roll",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2021-05-29T18:14:20.119Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "Классика",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2021-05-29T18:14:30.532Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "14",
+      "object_repr": "Рок",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2021-05-29T18:14:39.506Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "15",
+      "object_repr": "Шансон",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+      "action_time": "2021-05-29T18:16:52.331Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "32",
+      "object_repr": "Назад в будущее",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+      "action_time": "2021-05-29T18:18:18.679Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Побег из Шоушенка",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+      "action_time": "2021-05-29T18:19:01.500Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Крестный отец",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+      "action_time": "2021-05-29T18:19:18.621Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "12 разгневанных мужчин",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+      "action_time": "2021-05-29T18:19:39.980Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Список Шиндлера",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+      "action_time": "2021-05-29T18:20:54.422Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Криминальное чтиво",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+      "action_time": "2021-05-29T18:21:20.425Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Хороший, плохой, злой",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+      "action_time": "2021-05-29T18:21:55.430Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "7",
+      "object_repr": "Властелин колец: Братство кольца",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+      "action_time": "2021-05-29T18:22:20.423Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "8",
+      "object_repr": "Бойцовский клуб",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+      "action_time": "2021-05-29T18:22:50.325Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "9",
+      "object_repr": "Форрест Гамп",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+      "action_time": "2021-05-29T18:23:27.554Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "10",
+      "object_repr": "Звёздные войны. Эпизод 5: Империя наносит ответный удар",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+      "action_time": "2021-05-29T18:24:03.543Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "11",
+      "object_repr": "Властелин колец: Две крепости",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+      "action_time": "2021-05-29T18:25:19.803Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "12",
+      "object_repr": "Матрица",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+      "action_time": "2021-05-29T18:25:41.334Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "13",
+      "object_repr": "Пролетая над гнездом кукушки",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+      "action_time": "2021-05-29T18:26:04.699Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "32",
+      "object_repr": "Назад в будущее",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+      "action_time": "2021-05-29T18:26:49.239Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "14",
+      "object_repr": "Операция «Ы» и другие приключения Шурика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+      "action_time": "2021-05-29T18:27:13.453Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "15",
+      "object_repr": "Карты, деньги, два ствола",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+      "action_time": "2021-05-29T18:27:29.330Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "16",
+      "object_repr": "Джентльмены удачи",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+      "action_time": "2021-05-29T18:27:53.843Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "17",
+      "object_repr": "Джанго освобожденный",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+      "action_time": "2021-05-29T18:28:09.309Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "18",
+      "object_repr": "Generation П",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+      "action_time": "2021-05-29T18:28:43.478Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "19",
+      "object_repr": "Колобок",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+      "action_time": "2021-05-29T18:29:06.908Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "20",
+      "object_repr": "Страх и ненависть в Лас-Вегасе",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+      "action_time": "2021-05-29T18:29:22.570Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "21",
+      "object_repr": "Война и мир",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+      "action_time": "2021-05-29T18:29:51.214Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "22",
+      "object_repr": "Улисс",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+      "action_time": "2021-05-29T18:30:08.764Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "23",
+      "object_repr": "Generation П",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+      "action_time": "2021-05-29T18:30:31.617Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "24",
+      "object_repr": "Винни Пух и все-все-все",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+      "action_time": "2021-05-29T18:30:52.991Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "25",
+      "object_repr": "Стас Михайлов - Позывные на любовь",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+      "action_time": "2021-05-29T18:31:08.852Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "26",
+      "object_repr": "Led Zeppelin — Stairway to Heaven",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+      "action_time": "2021-05-29T18:31:25.982Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "27",
+      "object_repr": "Jethro Tull - Aqualung",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+      "action_time": "2021-05-29T18:31:42.171Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "28",
+      "object_repr": "Elvis Presley - Blue Suede Shoes",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+      "action_time": "2021-05-29T18:32:24.311Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "29",
+      "object_repr": "Deep Purple — Smoke on the Water",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+      "action_time": "2021-05-29T18:32:55.856Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "30",
+      "object_repr": "Моцарт - Турецкий марш",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+      "action_time": "2021-05-29T18:33:12.754Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "31",
+      "object_repr": "Бах. Оркестровая Сюита №2 си минор",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Genre\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+      "action_time": "2021-05-29T18:37:41.685Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "Review object (1)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 4,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 4,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 4,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 4,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 5,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 5,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 5,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 5,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 6,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 6,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 6,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 6,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add category",
+      "content_type": 7,
+      "codename": "add_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change category",
+      "content_type": 7,
+      "codename": "change_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete category",
+      "content_type": 7,
+      "codename": "delete_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view category",
+      "content_type": 7,
+      "codename": "view_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add genre",
+      "content_type": 8,
+      "codename": "add_genre"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change genre",
+      "content_type": 8,
+      "codename": "change_genre"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete genre",
+      "content_type": 8,
+      "codename": "delete_genre"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view genre",
+      "content_type": 8,
+      "codename": "view_genre"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add title",
+      "content_type": 9,
+      "codename": "add_title"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change title",
+      "content_type": 9,
+      "codename": "change_title"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete title",
+      "content_type": 9,
+      "codename": "delete_title"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view title",
+      "content_type": 9,
+      "codename": "view_title"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add review",
+      "content_type": 10,
+      "codename": "add_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change review",
+      "content_type": 10,
+      "codename": "change_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete review",
+      "content_type": 10,
+      "codename": "delete_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view review",
+      "content_type": 10,
+      "codename": "view_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add comment",
+      "content_type": 11,
+      "codename": "add_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change comment",
+      "content_type": 11,
+      "codename": "change_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete comment",
+      "content_type": 11,
+      "codename": "delete_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view comment",
+      "content_type": 11,
+      "codename": "view_comment"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "titles",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "titles",
+      "model": "category"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "titles",
+      "model": "genre"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "titles",
+      "model": "title"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "titles",
+      "model": "review"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+      "app_label": "titles",
+      "model": "comment"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "qirqkbkwtnyxrszf7is8gcsyt3hunr8t",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hAoHcq4dO8ZyDADUjVtUtqV8e7apAvd_vfef6lI21rj1vISR1FnZdXpd0vEjzztQO403WbN87QuY9K7og_a9HWW_Lwc7t9BpVa_dXA4YABOlgYozhcx2Pe9gY6do0IUEgom76ELjFwEDCAy5WyhoHj1_gDTmDf3:1ln41k:QP8fqT_mBB7Tc0cfRK0zNMxLzomz6UJgUT-whbj-Ko0",
+      "expire_date": "2021-06-12T18:49:40.335Z"
+    }
+  },
+  {
+    "model": "titles.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$216000$quTsGw0smPAD$g7JadU6L8Q0Ovs3DZqnMeS0I2dbUjo/5NNmIfRxHFaA=",
+      "last_login": "2021-05-29T18:49:40.308Z",
+      "is_superuser": true,
+      "username": "tarnado",
+      "first_name": "",
+      "last_name": "",
+      "email": "tarnado97@yandex.ru",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2021-05-29T17:25:31.481Z",
+      "bio": "",
+      "role": "user",
+      "conformation_code": "",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "titles.user",
+    "pk": 2,
+    "fields": {
+      "password": "Refraction",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "bingobongo",
+      "first_name": "",
+      "last_name": "",
+      "email": "bingobongo@yamdb.fake",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-05-29T17:30:32Z",
+      "bio": "",
+      "role": "user",
+      "conformation_code": "",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "titles.user",
+    "pk": 3,
+    "fields": {
+      "password": "Refraction",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "capt_obvious",
+      "first_name": "",
+      "last_name": "",
+      "email": "capt_obvious@yamdb.fake",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-05-29T17:33:26Z",
+      "bio": "",
+      "role": "admin",
+      "conformation_code": "",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "titles.user",
+    "pk": 4,
+    "fields": {
+      "password": "Refraction",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "faust",
+      "first_name": "",
+      "last_name": "",
+      "email": "faust@yamdb.fake",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-05-29T17:33:56Z",
+      "bio": "",
+      "role": "user",
+      "conformation_code": "",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "titles.user",
+    "pk": 5,
+    "fields": {
+      "password": "Refraction",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "reviewer",
+      "first_name": "",
+      "last_name": "",
+      "email": "reviewer@yamdb.fake",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-05-29T17:34:27Z",
+      "bio": "",
+      "role": "user",
+      "conformation_code": "",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "titles.user",
+    "pk": 6,
+    "fields": {
+      "password": "Refraction",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "angry",
+      "first_name": "",
+      "last_name": "",
+      "email": "angry@yamdb.fake",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-05-29T17:34:50Z",
+      "bio": "",
+      "role": "moderator",
+      "conformation_code": "",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "titles.category",
+    "pk": 1,
+    "fields": {
+      "name": "Фильм",
+      "slug": "movie"
+    }
+  },
+  {
+    "model": "titles.category",
+    "pk": 2,
+    "fields": {
+      "name": "Книга",
+      "slug": "book"
+    }
+  },
+  {
+    "model": "titles.category",
+    "pk": 3,
+    "fields": {
+      "name": "Музыка",
+      "slug": "music"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 1,
+    "fields": {
+      "name": "Драма",
+      "slug": "drama"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 2,
+    "fields": {
+      "name": "Комедия",
+      "slug": "comedy"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 3,
+    "fields": {
+      "name": "Вестерн",
+      "slug": "western"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 4,
+    "fields": {
+      "name": "Фэнтези",
+      "slug": "fantasy"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 5,
+    "fields": {
+      "name": "Фантастика",
+      "slug": "sci-fi"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 6,
+    "fields": {
+      "name": "Детектив",
+      "slug": "detective"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 7,
+    "fields": {
+      "name": "Триллер",
+      "slug": "thriller"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 8,
+    "fields": {
+      "name": "Сказка",
+      "slug": "tale"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 9,
+    "fields": {
+      "name": "Гонзо",
+      "slug": "gonzo"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 10,
+    "fields": {
+      "name": "Роман",
+      "slug": "roman"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 11,
+    "fields": {
+      "name": "Баллада",
+      "slug": "ballad"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 12,
+    "fields": {
+      "name": "Rock-n-roll",
+      "slug": "rock-n-roll"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 13,
+    "fields": {
+      "name": "Классика",
+      "slug": "classical"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 14,
+    "fields": {
+      "name": "Рок",
+      "slug": "rock"
+    }
+  },
+  {
+    "model": "titles.genre",
+    "pk": 15,
+    "fields": {
+      "name": "Шансон",
+      "slug": "chanson"
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 1,
+    "fields": {
+      "name": "Побег из Шоушенка",
+      "year": 1994,
+      "description": "",
+      "category": 1,
+      "genre": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 2,
+    "fields": {
+      "name": "Крестный отец",
+      "year": 1972,
+      "description": "",
+      "category": 1,
+      "genre": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 3,
+    "fields": {
+      "name": "12 разгневанных мужчин",
+      "year": 1957,
+      "description": "",
+      "category": 1,
+      "genre": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 4,
+    "fields": {
+      "name": "Список Шиндлера",
+      "year": 1993,
+      "description": "",
+      "category": 1,
+      "genre": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 5,
+    "fields": {
+      "name": "Криминальное чтиво",
+      "year": 1994,
+      "description": "",
+      "category": 1,
+      "genre": [
+        6,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 6,
+    "fields": {
+      "name": "Хороший, плохой, злой",
+      "year": 1966,
+      "description": "",
+      "category": 1,
+      "genre": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 7,
+    "fields": {
+      "name": "Властелин колец: Братство кольца",
+      "year": 2001,
+      "description": "",
+      "category": 1,
+      "genre": [
+        4
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 8,
+    "fields": {
+      "name": "Бойцовский клуб",
+      "year": 1999,
+      "description": "",
+      "category": 1,
+      "genre": [
+        9
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 9,
+    "fields": {
+      "name": "Форрест Гамп",
+      "year": 1994,
+      "description": "",
+      "category": 1,
+      "genre": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 10,
+    "fields": {
+      "name": "Звёздные войны. Эпизод 5: Империя наносит ответный удар",
+      "year": 1980,
+      "description": "",
+      "category": 1,
+      "genre": [
+        4
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 11,
+    "fields": {
+      "name": "Властелин колец: Две крепости",
+      "year": 2002,
+      "description": "",
+      "category": 1,
+      "genre": [
+        4
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 12,
+    "fields": {
+      "name": "Матрица",
+      "year": 1999,
+      "description": "",
+      "category": 1,
+      "genre": [
+        6,
+        1,
+        8,
+        5
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 13,
+    "fields": {
+      "name": "Пролетая над гнездом кукушки",
+      "year": 1975,
+      "description": "",
+      "category": 1,
+      "genre": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 14,
+    "fields": {
+      "name": "Операция «Ы» и другие приключения Шурика",
+      "year": 1965,
+      "description": "",
+      "category": 1,
+      "genre": [
+        6,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 15,
+    "fields": {
+      "name": "Карты, деньги, два ствола",
+      "year": 1998,
+      "description": "",
+      "category": 1,
+      "genre": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 16,
+    "fields": {
+      "name": "Джентльмены удачи",
+      "year": 1971,
+      "description": "",
+      "category": 1,
+      "genre": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 17,
+    "fields": {
+      "name": "Джанго освобожденный",
+      "year": 2012,
+      "description": "",
+      "category": 1,
+      "genre": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 18,
+    "fields": {
+      "name": "Generation П",
+      "year": 2011,
+      "description": "",
+      "category": 1,
+      "genre": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 19,
+    "fields": {
+      "name": "Колобок",
+      "year": 1873,
+      "description": "",
+      "category": 2,
+      "genre": [
+        8,
+        7
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 20,
+    "fields": {
+      "name": "Страх и ненависть в Лас-Вегасе",
+      "year": 1971,
+      "description": "",
+      "category": 2,
+      "genre": [
+        9
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 21,
+    "fields": {
+      "name": "Война и мир",
+      "year": 1865,
+      "description": "",
+      "category": 2,
+      "genre": [
+        10
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 22,
+    "fields": {
+      "name": "Улисс",
+      "year": 1918,
+      "description": "",
+      "category": 2,
+      "genre": [
+        10
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 23,
+    "fields": {
+      "name": "Generation П",
+      "year": 1999,
+      "description": "",
+      "category": 2,
+      "genre": [
+        10
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 24,
+    "fields": {
+      "name": "Винни Пух и все-все-все",
+      "year": 1926,
+      "description": "",
+      "category": 2,
+      "genre": [
+        8
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 25,
+    "fields": {
+      "name": "Стас Михайлов - Позывные на любовь",
+      "year": 2004,
+      "description": "",
+      "category": 3,
+      "genre": [
+        15
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 26,
+    "fields": {
+      "name": "Led Zeppelin — Stairway to Heaven",
+      "year": 1971,
+      "description": "",
+      "category": 3,
+      "genre": [
+        11
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 27,
+    "fields": {
+      "name": "Jethro Tull - Aqualung",
+      "year": 1971,
+      "description": "",
+      "category": 3,
+      "genre": [
+        14
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 28,
+    "fields": {
+      "name": "Elvis Presley - Blue Suede Shoes",
+      "year": 1955,
+      "description": "",
+      "category": 3,
+      "genre": [
+        11
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 29,
+    "fields": {
+      "name": "Deep Purple — Smoke on the Water",
+      "year": 1971,
+      "description": "",
+      "category": 3,
+      "genre": [
+        14
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 30,
+    "fields": {
+      "name": "Моцарт - Турецкий марш",
+      "year": 1784,
+      "description": "",
+      "category": 3,
+      "genre": [
+        13
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 31,
+    "fields": {
+      "name": "Бах. Оркестровая Сюита №2 си минор",
+      "year": 1739,
+      "description": "",
+      "category": 3,
+      "genre": [
+        13
+      ]
+    }
+  },
+  {
+    "model": "titles.title",
+    "pk": 32,
+    "fields": {
+      "name": "Назад в будущее",
+      "year": 1985,
+      "description": "",
+      "category": 1,
+      "genre": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "titles.review",
+    "pk": 1,
+    "fields": {
+      "text": "Ставлю десять звёзд!\r\n...Эти голоса были чище и светлее тех, о которых мечтали в этом сером, убогом месте. Как будто две птички влетели и своими голосами развеяли стены наших клеток, и на короткий миг каждый человек в Шоушенке почувствовал себя свободным.",
+      "author": 2,
+      "title": 1,
+      "score": 10,
+      "pub_date": "2021-05-29T18:37:41.679Z"
+    }
+  }
+]
