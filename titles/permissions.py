@@ -19,6 +19,8 @@ class IsAdminOrReadOnly(permissions.BasePermission):
         elif request.user.is_authenticated:
             return bool(
                 request.user.is_staff or request.user.role == User.ADMIN)
+        else:
+            return False
 
 
 class IsAdmin(permissions.BasePermission):
@@ -27,3 +29,5 @@ class IsAdmin(permissions.BasePermission):
             return bool((request.user.role == User.ADMIN)
                         or (request.user.is_staff
                             and request.user.is_superuser))
+        else:
+            return False
