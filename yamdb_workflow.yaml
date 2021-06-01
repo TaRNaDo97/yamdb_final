@@ -45,6 +45,10 @@ jobs:
           tags: tarnado1997/yamdb:latest
 
   deploy:
+    on:
+      push:
+        branches:
+          - main  
     runs-on: ubuntu-latest
     needs: build_and_push_to_docker_hub
     steps:
